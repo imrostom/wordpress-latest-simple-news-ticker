@@ -8,9 +8,10 @@
 
 ## Descriptions
 This plugin help you to view the your latest posts or page on your website.This plugin also have three type of animation. \
-1.Fade Effect.
-1.Slide Effect.
-1.Roll Effect.
+
+1. Fade Effect.
+1. Slide Effect.
+1. Roll Effect.
 You can also control and adjust color and animation news ticker options panel.
 
 ## Installation
