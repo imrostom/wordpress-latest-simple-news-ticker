@@ -4,7 +4,7 @@
 **Requires at least: ** 3.0 \
 **Tested up to: ** 4.8 \
 **Stable tag: ** Wordpress news ticker \
-**License:** GPLv2 or later \
+**License:** GPLv2 or later 
 
 ## Descriptions
 This plugin help you to view the latest posts or page on your website.This plugin also have three type of animation such as Fade Effects,Slide Effects,Roll Effects.You can also control and adjust color and animation Admin panel.
@@ -32,5 +32,5 @@ This section describes you how to install the plugin and get it working.
 No Changes
 
 == Frequently Asked Questions ==
-Your Can Ask Anything rostomali4444@gmail.com
+Your can ask anything [rostomali4444@gmail.com](*GMAIL*)
 or your can also message me <a href="http://www.facebook.com/engrrostomali">Facebook</a>
