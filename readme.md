@@ -28,9 +28,9 @@ This section describes you how to install the plugin and get it working.
 3.Dashboard Ticker Options 2
 4.Live Demo Ticker Options
 
-== Changelog ==
-No Changes
+## Changelog
+	**Initial release
 
-== Frequently Asked Questions ==
-Your can ask anything [rostomali4444@gmail.com](*GMAIL*)
+## Frequently Asked Questions 
+Your can ask anything **rostomali4444@gmail.com** 
 or your can also message me <a href="http://www.facebook.com/engrrostomali">Facebook</a>
