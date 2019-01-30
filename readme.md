@@ -1,9 +1,9 @@
 ## Wordpress Latest Simple News Ticker 
 **Contributors:** Rostom Ali \
 **Tags:** Wordpress latest news ticker, Breaking news ticker, News ticker,Wordpress news ticker etc. \
-**Requires at least: ** 3.0 \
-**Tested up to: ** 4.8 \
-**Stable tag: ** Wordpress news ticker \
+**Requires at least:** 3.0 \
+**Tested up to:** 4.8 \
+**Stable tag:** Wordpress news ticker \
 **License:** GPLv2 or later 
 
 ## Descriptions
@@ -22,8 +22,9 @@ This section describes you how to install the plugin and get it working.
 		<?php echo do_shortcode('[tickershortcode]'); ?>
 	```
 
-== Screenshots ==
-1.How Active News Ticker
+## Screenshots
+1.How active news ticker 
+![alt text](https://ps.w.org/latest-simple-news-ticker/assets/screenshot-1.png?rev=1692030 "How active news ticker")
 2.Dashboard Ticker Options 1
 3.Dashboard Ticker Options 2
 4.Live Demo Ticker Options
