@@ -23,17 +23,17 @@ This section describes you how to install the plugin and get it working.
 	```
 
 ## Screenshots
-1.How active news ticker 
+**1.How active news ticker:-** \
 ![alt text](https://ps.w.org/latest-simple-news-ticker/assets/screenshot-1.png?rev=1692030 "How active news ticker")
 	
-2.Dashboard Ticker Options 1
-![alt text](https://ps.w.org/latest-simple-news-ticker/assets/screenshot-1.png?rev=1692030 "How active news ticker")
+**2.Wordpress dashboard news ticker options 1 :-** \
+![alt text](https://ps.w.org/latest-simple-news-ticker/assets/screenshot-2.png?rev=1692030 "Wordpress dashboard news ticker options 1")
 	
-3.Dashboard Ticker Options 2
-![alt text](https://ps.w.org/latest-simple-news-ticker/assets/screenshot-1.png?rev=1692030 "How active news ticker")
+**3.Wordpress dashboard news ticker options 2:-** \
+![alt text](https://ps.w.org/latest-simple-news-ticker/assets/screenshot-3.png?rev=1692030 "Wordpress dashboard news ticker options 2")
 	
-4.Live Demo Ticker Options
-![alt text](https://ps.w.org/latest-simple-news-ticker/assets/screenshot-1.png?rev=1692030 "How active news ticker")
+**4.Live demo news ticker:-** \
+![alt text](https://ps.w.org/latest-simple-news-ticker/assets/screenshot-4.png?rev=1692030 "Live demo news ticker")
 
 ## Changelog
 	**Initial release
