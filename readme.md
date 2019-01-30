@@ -2,12 +2,16 @@
 **Contributors:** Rostom Ali \
 **Tags:** Wordpress latest news ticker, Breaking news ticker, News ticker,Wordpress news ticker etc. \
 **Requires at least:** 3.0 \
-**Tested up to:** 4.8 \
+**Tested up to:** 3.0 \
 **Stable tag:** Wordpress news ticker \
 **License:** GPLv2 or later 
 
 ## Descriptions
-This plugin help you to view the latest posts or page on your website.This plugin also have three type of animation such as Fade Effects,Slide Effects,Roll Effects.You can also control and adjust color and animation Admin panel.
+This plugin help you to view the your latest posts or page on your website.This plugin also have three type of animation.
+	1.Fade Effect.
+	1.Slide Effect.
+	1.Roll Effect.
+You can also control and adjust color and animation news ticker options panel.
 
 ## Installation
 This section describes you how to install the plugin and get it working.
