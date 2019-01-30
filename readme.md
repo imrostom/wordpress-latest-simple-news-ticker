@@ -1,5 +1,5 @@
 ## Wordpress Latest Simple News Ticker 
-Contributors: Rostom Ali
+Contributors: Rostom Ali \
 Tags:Latest News Ticker,Breaking News Ticker,News Ticker,News Bar,Wordpress News Ticker,Breaking News Bar,WordPress Marquee Bar,jQuery Wordpress News Ticker Etc.
 Requires at least: 3.0
 Tested up to: 4.8
