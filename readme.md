@@ -1,10 +1,10 @@
 ## Wordpress Latest Simple News Ticker 
-Contributors: Rostom Ali \
-Tags:Latest News Ticker,Breaking News Ticker,News Ticker,News Bar,Wordpress News Ticker,Breaking News Bar,WordPress Marquee Bar,jQuery Wordpress News Ticker Etc.
-Requires at least: 3.0
-Tested up to: 4.8
-Stable tag: News Ticker
-License: GPLv2 or later
+**Contributors:** Rostom Ali \
+**Tags:** Wordpress latest news ticker, Breaking news ticker, News ticker,Wordpress news ticker etc.
+**Requires at least: ** 3.0
+**Tested up to: ** 4.8
+**Stable tag: ** Wordpress news ticker
+**License:** GPLv2 or later
 
 ## Descriptions
 This plugin help you to view the latest posts or page on your website.This plugin also have three type of animation such as Fade Effects,Slide Effects,Roll Effects.You can also control and adjust color and animation Admin panel.
